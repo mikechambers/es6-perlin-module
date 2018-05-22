@@ -2,7 +2,7 @@
 
 JavaScript port of Perlin noise (and Perlin periodic noise), ported directly from Stefan Gustavson's work at:
 
-https://github.com/stegu/perlin-noise
+https://github.com/stegu/perlin-noise  
 https://github.com/stegu/perlin-noise/blob/master/src/noise1234.c
 
 Released into the public domain.
